@@ -1,0 +1,30 @@
+.top{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.leftTop h4{
+    font-size: 20px;
+    color: #00877C;
+    font-weight: 500;
+}
+
+.leftTop span{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.righttop button {
+    border: solid 1.5px #00877C;
+    padding: 5px 25px;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+
+.footerInfo h2 {
+    font-size: 1.2em;
+    font-weight: 500;
+}

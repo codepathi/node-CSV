@@ -1,0 +1,26 @@
+_id,capacity,tableName,isOutOfService,status
+63a81f9e6fe65a001d80bd02,3,MAMA Table,true,out of service
+63a2cd676fe65a001d80b4ca,1,nm,true,out of service
+63996e166fe65a001d80a5a6,16,Ankush,false,open
+6370c6c56fe65a001d806dda,4,aaaa,false,open
+63301b074f31f3001ed7503b,3,table 2,false,occupied
+6329846e4f31f3001ed74442,2,Abb,false,occupied
+632951194f31f3001ed743f8,4,table--1,false,occupied
+62fe02494f31f3001ed6fc12,2,bishal vip,false,occupied
+62f06fe04f31f3001ed6e8ca,4,VIP sagar special,false,open
+62dc1cb94f31f3001ed6c193,3,55,false,occupied
+62c5379740e458001ebebd1a,4,table swing 04,false,open
+62a031831add42001edc0c37,4,new test balcony,false,open
+625b9c1df49414001e424f57,1,table 123,false,occupied
+625b9bf3f49414001e424f55,1,table 015,true,out of service
+6253c784e2a0b4001e3bb8c7,2,table 123,false,occupied
+623b1b1c43f6fb001e706328,6,Table 015,false,occupied
+623b144243f6fb001e70630e,2,Table 014,false,occupied
+623b0c96bd29e8001ef0475d,5,Table 013,true,out of service
+621b5f79915ac1001e89cfb6,7,Table 012,false,occupied
+62145d17246624001f40cc54,1,Table 010,false,open
+620e4c1f3c5743001ee6cec3,2,Table 009,false,open
+620e287fd50fd0001e901cca,6,Table 008,false,occupied
+620a3e8dd50fd0001e901ad8,4,Table 006,false,open
+620a3e84676260001dd63247,6,Table 0055,false,occupied
+620a3e7bd50fd0001e901ad6,4,Table 004,false,open

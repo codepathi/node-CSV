@@ -1,0 +1,98 @@
+.uploadSection{
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    box-shadow: 1px 1px 10px rgb(238, 238, 238);
+    padding: 10px;
+}
+
+.browse{
+    background-color: #00877C;
+    padding: 20px 0;
+    border-radius: 20px;
+    width: 270px;
+    display: flex;
+    justify-content: center;
+}
+
+.browseInner{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.cloud{
+    font-size: 60px;
+}
+
+
+.uploading{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.rightBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 7;
+    height: 100vh;
+    padding: 15px 20px;
+  }
+  
+  .uploadBarContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #DFF5F3;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+  }
+  
+  .csvLogo img{
+    width: 30px;
+  }
+
+  .progressBar{
+    width: 100%;
+  }
+
+  .fileUploading{
+    width: 88%;
+  }
+
+  .generateBtn{
+    background-color: #00877C;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    width: 200px;
+    font-size: 0.9em;
+    float: right;
+  }
+
+  .buttonContainer{
+    width: 100%;
+  }
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px 0px;
+    width: 100%;
+    border-radius: 5px;
+    border: white 1px solid;
+}

@@ -1,0 +1,43 @@
+.leftNav{
+    flex: 2;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 10px gray;
+}
+
+.logo{
+    font-size: 2em;
+    color:#00877C;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.navLinks{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-weight: 400;
+    width: 90%;
+}
+
+.navItem{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+.selected{
+    background-color: #00877C;
+    border-radius: 5px;
+    color: white !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+
